@@ -2,8 +2,6 @@
 
 Grocerly is an AI-powered recipe and grocery management app for iOS. Users build a pantry, get smart recipe suggestions based on what they have, and generate shareable grocery lists — all assisted by a Claude-powered chat interface. It targets home cooks who want to reduce food waste and simplify meal planning.
 
-> **Note:** This repository is private during the active App Store launch window to protect unreleased product details. Source access is available to hiring managers and technical reviewers on request.
-
 ---
 
 ## Why is this repo private?
