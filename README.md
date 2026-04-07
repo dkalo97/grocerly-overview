@@ -6,6 +6,12 @@ Grocerly is an AI-powered recipe and grocery management app for iOS. Users build
 
 ---
 
+## Why is this repo private?
+
+This codebase is private during the active App Store review and launch window. Making it public before approval would expose product details, prompt engineering, and configuration that are part of the competitive product surface. I plan to open-source portions of the architecture (hooks patterns, Capacitor + Firebase integration) after launch.
+
+---
+
 ## Technical Architecture
 
 ### Frontend — React 19 PWA + Capacitor iOS
@@ -84,8 +90,6 @@ ios/                       # Capacitor iOS project (Xcode)
 
 ---
 
-## Why is this repo private?
+## For Hiring Purposes
 
-This codebase is private during the active App Store review and launch window. Making it public before approval would expose product details, prompt engineering, and configuration that are part of the competitive product surface. I plan to open-source portions of the architecture (hooks patterns, Capacitor + Firebase integration) after launch.
-
-For hiring purposes: I'm happy to do a live walkthrough or grant temporary read access. Reach out via [LinkedIn](https://www.linkedin.com/in/danielkalo) or the contact on my resume.
+I'm happy to do a live walkthrough or grant temporary read access. Reach out via [LinkedIn](https://www.linkedin.com/in/danielkalo) or the contact on my resume.
