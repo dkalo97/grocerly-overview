@@ -79,7 +79,7 @@ ios/                       # Capacitor iOS project (Xcode)
 
 ## App Store
 
-- **Live web app**: [grocerly-six.vercel.app](https://grocerly-six.vercel.app)
+- **Live web app/PWA**: [grocerly-six.vercel.app](https://grocerly-six.vercel.app)
 - **iOS App Store listing**: coming soon
 
 ---
