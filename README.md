@@ -90,6 +90,4 @@ ios/                       # Capacitor iOS project (Xcode)
 
 ---
 
-## For Hiring Purposes
-
 I'm happy to do a live walkthrough or grant temporary read access. Reach out via [LinkedIn](https://www.linkedin.com/in/danielkalo) or the contact on my resume.
